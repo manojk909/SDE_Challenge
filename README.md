@@ -1,2 +1,2 @@
 # SDE_Challenge
-Solving 3 DSA problems daily.
+Solving 5 DSA problems daily.
